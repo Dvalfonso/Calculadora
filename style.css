@@ -5,3 +5,6 @@
     width: 400px;
     background-color: aqua;
 }
+.container{
+    display: inline-block;
+}
